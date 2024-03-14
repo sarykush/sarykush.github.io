@@ -8,7 +8,7 @@ last_name: Буллер
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦅
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,22 +26,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - CTF
+  - Информационная безопасность
+  - Сапер онлайн
+  - Соколиная охота
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Бизнес-информатика
+      institution: Российский университет дружбы народов (РУДН)
+      year: 2023-2027
+    - course: Как взять всерос без приключений сборной по физкультуре Москвы
+      institution: АНО ЦПМ
+      year: 2021-2023
+    - course: Спидран по саперу
+      year: 2005-2023
+    - course: Основы сетевой инженерии
+      institution: TSU
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Студент группы НБИбд-01-23 в Российском Университете Дружбы Народов (РУДН), чемпион в сапер онлайн, гуру лабораторных по архитектуре.
 {style="text-align: justify;"}
