@@ -110,7 +110,7 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: '2023-03-06'
           date_start: '2022-02-19'
-          description: ''
+          description: Весна на улице!!! >:(
           icon: mand
           organization: База отдыха "Лесные поляны", ЦДОО "Команда"
           organization_url: https://www.edx.org
@@ -119,7 +119,7 @@ sections:
         - certificate_url: https://www.cantata.ru/
           date_end: ''
           date_start: '2021-09-01'
-          description: ''
+          description: Но не в пакетиках.
           icon: kant
           organization: Кантата
           organization_url: https://www.cantata.ru/
@@ -128,7 +128,7 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: '2021-09-01'
           date_start: '2023-05-29'
-          description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за нейтронный коллайдер при желании.
+          description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за адронный коллайдер при желании.
           icon: kurch
           organization: ГБОУ Курчатовская школа
           organization_url: https://kurchat.mskobr.ru/
