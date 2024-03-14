@@ -115,25 +115,27 @@ sections:
           organization: База отдыха "Лесные поляны", ЦДОО "Команда"
           organization_url: https://www.edx.org
           title: Мастер спорта ходьбы по сугробам в тапочках
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: '2021-09-01'
+          date_start: '2024-03-14'
+          description: ''
+          icon: edx
+          organization: Кантата
+          organization_url: https://www.edx.org
+          title: Обладатель контрольных пакетов чая кантаты
+          url: ''
+          - certificate_url: https://www.edx.org
           date_end: '2023-05-29'
           date_start: '2021-09-01'
           description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за нейтронный коллайдер при желании. Курчатовская ж.
-          icon: datacamp
+          icon: edx
           organization: ГБОУ "Курчатовская школа"
           organization_url: https://www.datacamp.com
           title: Обладательница фиолетового пояса курчата, который ещё и косынка
           url: ''
-          - certificate_url: https://www.datacamp.com
-          date_end: '2021-09-01'
-          date_start: '2024-03-14'
-          description: ''
-          icon: datacamp
-          organization: Кантата
-          organization_url: https://www.datacamp.com
-          title: Обладатель контрольных пакетов чая кантаты
-          url: ''
+
+
     design:
       columns: '2'
   - block: collection
