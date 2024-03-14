@@ -116,25 +116,6 @@ sections:
           organization_url: https://www.edx.org
           title: Мастер спорта ходьбы по сугробам в тапочках
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: '2021-09-01'
-          date_start: '2024-03-14'
-          description: ''
-          icon: edx
-          organization: Кантата
-          organization_url: https://www.edx.org
-          title: Обладатель контрольных пакетов чая кантаты
-          url: ''
-          - certificate_url: https://www.edx.org
-          date_end: '2023-05-29'
-          date_start: '2021-09-01'
-          description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за нейтронный коллайдер при желании. Курчатовская ж.
-          icon: edx
-          organization: ГБОУ "Курчатовская школа"
-          organization_url: https://www.datacamp.com
-          title: Обладательница фиолетового пояса курчата, который ещё и косынка
-          url: ''
-
 
     design:
       columns: '2'
