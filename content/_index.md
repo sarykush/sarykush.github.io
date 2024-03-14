@@ -111,7 +111,7 @@ sections:
           date_end: '2023-03-06'
           date_start: '2022-02-19'
           description: ''
-          icon: edx
+          icon: mand
           organization: База отдыха "Лесные поляны", ЦДОО "Команда"
           organization_url: https://www.edx.org
           title: Мастер спорта ходьбы по сугробам в тапочках
@@ -120,16 +120,16 @@ sections:
           date_end: ''
           date_start: '2021-09-01'
           description: ''
-          icon: edx
+          icon: kant
           organization: Кантата
           organization_url: https://www.cantata.ru/
           title: Обладатель контрольных пакетов чая кантаты
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-09-01'
+          date_end: '2021-09-01'
+          date_start: '2023-05-29'
           description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за нейтронный коллайдер при желании.
-          icon: edx
+          icon: kurch
           organization: ГБОУ Курчатовская школа
           organization_url: https://kurchat.mskobr.ru/
           title: Обладательница фиолетового пояса курчата, который ещё и косынка
