@@ -99,8 +99,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: '2005-05-12'
-          date_start: '2024-03-14'
+          date_end: '2024-03-14'
+          date_start: '2005-05-12'
           description: Один человек с детства мечтал показывать людям фокусы, поэтому устроился консультантом в салон Ford.
           icon: coursera
           organization: Coursera
@@ -108,13 +108,31 @@ sections:
           title: Кандидат анекдотических наук
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: '2022-02-19'
-          date_start: '2023-03-06'
+          date_end: '2023-03-06'
+          date_start: '2022-02-19'
           description: ''
           icon: edx
           organization: База отдыха "Лесные поляны", ЦДОО "Команда"
           organization_url: https://www.edx.org
           title: Мастер спорта ходьбы по сугробам в тапочках
+          url: ''
+        - certificate_url: https://www.cantata.ru/
+          date_end: ''
+          date_start: '2021-09-01'
+          description: ''
+          icon: edx
+          organization: Кантата
+          organization_url: https://www.cantata.ru/
+          title: Обладатель контрольных пакетов чая кантаты
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-09-01'
+          description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за нейтронный коллайдер при желании.
+          icon: edx
+          organization: ГБОУ Курчатовская школа
+          organization_url: https://kurchat.mskobr.ru/
+          title: Обладательница фиолетового пояса курчата, который ещё и косынка
           url: ''
 
     design:
