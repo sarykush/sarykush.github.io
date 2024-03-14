@@ -99,8 +99,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2005-05-12'
+          date_start: '2024-03-14'
           description: Один человек с детства мечтал показывать людям фокусы, поэтому устроился консультантом в салон Ford.
           icon: coursera
           organization: Coursera
@@ -108,22 +108,31 @@ sections:
           title: Кандидат анекдотических наук
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+          date_end: '2022-02-19'
+          date_start: '2023-03-06'
           description: ''
           icon: edx
-          organization: edX
+          organization: База отдыха "Лесные поляны", ЦДОО "Команда"
           organization_url: https://www.edx.org
-          title: мастер спорта ходьбы по сугробам
+          title: Мастер спорта ходьбы по сугробам в тапочках
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2023-05-29'
+          date_start: '2021-09-01'
+          description: Косынка. Фиолетовая. Сойдет за фартук, за пояс, за нейтронный коллайдер при желании. Курчатовская ж.
+          icon: datacamp
+          organization: ГБОУ "Курчатовская школа"
+          organization_url: https://www.datacamp.com
+          title: Обладательница фиолетового пояса курчата, который ещё и косынка
+          url: ''
+          - certificate_url: https://www.datacamp.com
+          date_end: '2021-09-01'
+          date_start: '2024-03-14'
           description: ''
           icon: datacamp
-          organization: DataCamp
+          organization: Кантата
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: Обладатель контрольных пакетов чая кантаты
           url: ''
     design:
       columns: '2'

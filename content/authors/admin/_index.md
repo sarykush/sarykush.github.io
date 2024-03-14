@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cтудент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peoples' Friendship University of Russia (RUDN)
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: чемпион в сапер онлайн
