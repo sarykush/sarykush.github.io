@@ -54,23 +54,19 @@ skills:
       - name: C++
         description: ''
         percent: 70
-        icon: cplusplus
-        icon_pack: devicon
+        icon: devicon/cplusplus
       - name: PHP
         description: ''
         percent: 80
-        icon: php
-        icon_pack: devicon
+        icon: devicon/php
       - name: SQL
         description: ''
         percent: 40
-        icon: azuresqldatabase
-        icon_pack: devicon
+        icon: devicon/azuresqldatabase
       - name: pentest
         description: ''
         percent: 30
-        icon: redhat
-        icon_pack: fas
+        icon: devicon/redhat
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
