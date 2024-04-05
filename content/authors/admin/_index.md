@@ -51,39 +51,44 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: C++
+        description: ''
+        percent: 70
+        icon: cplusplus
+        icon_pack: devicon
+      - name: PHP
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: php
+        icon_pack: devicon
       - name: SQL
         description: ''
         percent: 40
-        icon: database
+        icon: azuresqldatabase
+        icon_pack: devicon
+      - name: pentest
+        description: ''
+        percent: 30
+        icon: redhat
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Falconry
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: feather
         icon_pack: fas
-      - name: Cats
+      - name: Tea
         description: ''
-        percent: 100
-        icon: cat
+        percent: 90
+        icon: mug-hot
         icon_pack: fas
-      - name: Photography
+      - name: Design
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: pen-nib
         icon_pack: fas
 
 # Social/Academic Networking

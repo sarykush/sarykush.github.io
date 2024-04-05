@@ -63,26 +63,26 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: GenCoin
+          company: Kaнтата
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: kant
+          location: Russia
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Ответственность:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
+              * Пить чай
+              * Продавать чай
+              * Покупать чай
+        - title: Кандидат анекдотических наук
           company: University X
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: kurch
+          location: Vologda
+          date_start: '2005-05-12'
+          date_end: ''
+          description: Заходит улитка в бар........
     design:
       columns: '2'
   - block: accomplishments
