@@ -103,7 +103,7 @@ social:
     icon_pack: ai
     link: https://www.mendeley.com/
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/
   - icon: researchgate
     icon_pack: ai
