@@ -181,8 +181,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: чучух чучух
+          tag: чучух чучух
         - name: Other
           tag: Demo
     design:
